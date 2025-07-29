@@ -2,76 +2,76 @@ Key Features-
 
 🎓 Study Assistant
 
-Answers math, science, and history questions.
+-Answers math, science, and history questions.
 
-Provides explanations for key concepts.
+-Provides explanations for key concepts.
 
-Helps with homework and study topics.
+-Helps with homework and study topics.
 
 🧘 Mental Wellness
 
-Guided breathing exercises (4-7-8,box breathing).
+-Guided breathing exercises (4-7-8,box breathing).
 
-Meditation instructions.
+-Meditation instructions.
 
-Positive affirmations.
+-Positive affirmations.
 
-Stress and anxiety management techniques.
+-Stress and anxiety management techniques.
 
 ✅ Productivity Assistant
 
-Task management and reminders.
+-Task management and reminders.
 
-Schedule organization.
+-Schedule organization.
 
-Priority setting.
+-Priority setting.
 
-Progress tracking.
+-Progress tracking.
 
 🎧 Customer Support
 
-FAQ responses.
+-FAQ responses.
 
-Issue troubleshooting.
+-Issue troubleshooting.
 
-Account, billing, and technical support.
+-Account, billing, and technical support.
 
 💰 Finance & Budget
 
-Expense tracking.
+-Expense tracking.
 
-Budget management.
+-Budget management.
 
-Money-saving tips.
+-Money-saving tips.
 
-Financial planning advice.
+-Financial planning advice.
 
 🍽️ Meal Planner
 
-Recipe suggestions.
+-Recipe suggestions.
 
-Nutrition information.
+-Nutrition information.
 
-Daily meal planning.
+-Daily meal planning.
 
-Calorie tracking.
+-Calorie tracking.
 
 🔧 Tech Troubleshooter
 
-WiFi connectivity issues.
+-WiFi connectivity issues.
 
-Computer performance problems.
+-Computer performance problems.
 
-Phone troubleshooting.
+-Phone troubleshooting.
 
-Printer fixes.
+-Printer fixes.
 
 🌍 Language Learning
 
-Spanish, French, German basics.
+-Spanish, French, German basics.
 
-Vocabulary building.
+-Vocabulary building.
 
-Translation help.
+-Translation help.
 
-Learning tips and practice.
+-Learning tips and practice.
